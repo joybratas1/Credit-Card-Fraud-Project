@@ -13,6 +13,11 @@ This Project is basically aimed to detect anamolies and frauds in Credit Card Tr
 * The dataset is highly Imbalanced so before going for the predictive analysis we performed some Sampling technique so as to decrease the imbalance.
 * This is done because the Classification problems works well only if both the classes are evenly distrubuted.
 
+
+## FINAL 
+We implemented 5 Algorithms CART, Logistic Regression, Random Forest, CATBoost, LIGHTGBM and performed an comparision. We also used the blending technique to compare it with the single classifier.
+
+
 We would like to thanks our guide **Dr. Krishnendu Chandra** of Applied and Official Statistics Unit, ISI Tezpur for helping us in evey steps of this project.
 
 
